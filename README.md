@@ -1,11 +1,13 @@
 Los paquetes necesarios para ejecutar todos los notebooks son:
 # Paquetes principales
-tensorflow==2.10.0
-scikit-learn==1.2.2
-pandas==1.5.3
-numpy==1.23.5
-matplotlib==3.7.1
-seaborn==0.12.2
+- tensorflow==2.10.0
+- scikit-learn==1.2.2
+- pandas==1.5.3
+- numpy==1.23.5
+- matplotlib==3.7.1
+- seaborn==0.12.2
+
+
 
 # Paquetes especializados
 tensorflow-datasets==4.8.2
